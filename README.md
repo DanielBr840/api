@@ -17,9 +17,6 @@ git clone https://github.com/DmitriyShevchuk/api.git
 
 ### Крок 4: Встановити залежності копмозера
 ```powershell
-cd api
-```
-```powershell
 composer install
 ```
 
